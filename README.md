@@ -9,9 +9,6 @@ Soy un Ingeniero de Desarrollo de Software con más de 10 años de experiencia, 
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Platform-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
 
-## 📈 Mis estadísticas en GitHub
-[![Estadísticas de GitHub de Javier](https://github-readme-stats.vercel.app/api?username=javiercastilomejia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📚 Compartiendo Conocimiento
 Creo firmemente en la colaboración y el aprendizaje mutuo. Regularmente realizo:
 - 🗣️ Charlas y webinars sobre mejores prácticas en desarrollo .NET.
