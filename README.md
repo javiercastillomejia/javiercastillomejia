@@ -15,5 +15,6 @@ Creo firmemente en la colaboración y el aprendizaje mutuo. Regularmente realizo
 - 👨‍🏫 Mentorías para nuevos desarrolladores, ayudándoles a navegar por el fascinante mundo de la codificación.
 
 ## 🤝 Conéctate conmigo
-- LinkedIn: [javier-castillo-mejia](https://www.linkedin.com/in/javiercastillomejia/)
-- Twitter: [javiercastilomejia](https://twitter.com/javicastillo)
+- [LinkedIn](https://www.linkedin.com/in/javiercastillomejia/)
+- [Twitter](https://twitter.com/javicastillo)
+- [Web](javiercastillomejia.com)
