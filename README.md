@@ -8,6 +8,7 @@ I'm a Software Development Engineer with over 10 years of experience, specializi
 ![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Platform-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-GitHub-black?style=flat&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Database-SQL-blue?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![](https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Database-Redis-red?style=flat&logo=redis&logoColor=white)
